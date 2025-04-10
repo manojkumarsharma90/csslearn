@@ -1,0 +1,96 @@
+h1{
+    color: blue;
+}
+/* p{
+    color: darkmagenta;
+} */
+#local{
+    color: red;
+    
+}
+.text{
+    color: brown;
+
+}
+h2,h3{
+    color: chartreuse;
+    background-color: skyblue;
+}
+div p{
+    color: hotpink;
+}
+
+.box{
+    height: 40px; width: 60px;
+}
+#box1{
+    color: blue;
+    background-color: sandybrown;
+}
+#box2{
+    color: khaki;
+    background-color: red; text-align: center;
+
+    
+}
+#box3{
+    color: navajowhite;
+    background-color: black;
+}
+#icon{
+    height: 150px;
+    width: 150px;
+    background-image: url(myntralogo.avif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+#deco{
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-decoration-color: red;
+    text-transform: lowercase;
+}
+#space{
+    line-height: 10px;
+    
+}
+#pad{
+    background-color: burlywood;
+    height: 50px;
+    width: 50px;
+    padding: 10px;
+    margin: 10px;
+    border: 5px solid rgb(30, 169, 15);
+    border-radius: 10px;
+    
+}
+.boxx{
+    background-color: fuchsia;
+    padding: 0%;
+    margin: 10px;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    display: inline-block;
+}
+#b1{
+    display: none;
+    
+}
+#first{
+    background-color: aquamarine;
+    height: 100px;
+    width: 100px;
+    font-size: 40px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+#second{
+    background-color: hotpink;
+    height: 50%;
+    width: 50%;
+    font-size: 0.5em;
+}
